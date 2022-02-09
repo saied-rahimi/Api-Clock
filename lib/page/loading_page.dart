@@ -1,4 +1,4 @@
-import 'package:bignner_cours/page/services/world_time.dart';
+import 'package:api_clock/page/services/world_time.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 class LoadingPage extends StatefulWidget {

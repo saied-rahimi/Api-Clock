@@ -1,4 +1,5 @@
-import 'package:bignner_cours/page/services/world_time.dart';
+
+import 'package:api_clock/page/services/world_time.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 class ChooseLocationPage extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:bignner_cours/page/choose_location.dart';
-import 'package:bignner_cours/page/home_page.dart';
-import 'package:bignner_cours/page/loading_page.dart';
+import 'package:api_clock/page/choose_location.dart';
+import 'package:api_clock/page/home_page.dart';
+import 'package:api_clock/page/loading_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
